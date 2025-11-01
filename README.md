@@ -1,2 +1,2 @@
-Thia is the desription of my repo
+This is the desription of my repo
 Modificatin in feature-greeting branch.
